@@ -1,22 +1,58 @@
-# Hi there, I'm Hunzla Hussain 👋  
+## Hi, I'm Hunzla Hussain 👋  
+**Software Engineer | MERN Stack Developer**
 
-🚀 **MERN Stack & Full Stack Developer | React & Next.js Expert | JavaScript Enthusiast | UI/UX Designer**  
+I build scalable, high-performance web applications using modern JavaScript technologies.
 
-📧 **Email:** hunzlahussain7869@gmail.com  
-📱 **Phone:** 0326-4903791  
-📍 **Location:** Lahore, Pakistan  
-🔗 [LinkedIn](https://linkedin.com/in/hunzlahussain) 
+### 🚀 Tech Focus
+- Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Express.js, PostgreSQL, Redis
+- Cloud & DevOps: AWS Lambda, DynamoDB, Azure
+- Tools: Bull Queue, Playwright, TypeORM
+
+---
+
+### 💼 What I Do
+- Build scalable MERN stack applications
+- Design clean and maintainable backend architectures
+- Develop serverless APIs using AWS
+- Optimize performance and background jobs with Redis & Bull
+- Write reliable and accessible applications with automated testing
 
 ---
 
-## 👨‍💻 About Me  
-I’m Hunzla Hussain, a **Software Engineering graduate** and **full-stack developer** passionate about building **scalable and high-performance web apps**.  
-- 💻 Strong in **MERN/PERN stack (React, Next.js, Node, Express, PostgreSQL, MongoDB)**  
-- ⚡ Experienced in **Redis, Bull Queues, TypeORM, API Integrations**  
-- ☁️ Skilled with **AWS (Lambda, DynamoDB, S3, SNS, Step Functions)** & **Azure DevOps**  
-- 🎨 UI/UX lover using **TailwindCSS, MUI, Shadcn, RizzUI**  
+### 🔥 Featured Projects
+
+- **CRM System** – AI-powered CRM dashboard  
+  Tech: React, Node.js, PostgreSQL  
+  🔗 https://aicrmbot.hisabkarlay.com/sign-in
+
+- **LMS Portal** – Learning management system  
+  Tech: Next.js, Tailwind, PostgreSQL  
+  🔗 https://demoailearnpulse.vercel.app/
+
+- **Doctor Application** – Appointment & patient management  
+  Tech: MERN Stack  
+  🔗 https://doctor-application.vercel.app/
+
+  
+---
+
+### 🛠 Skills
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express.js  
+**Databases:** PostgreSQL, Redis  
+**Cloud:** AWS Lambda, DynamoDB, Azure  
+**Tools:** Git, Bull Queue, Playwright, TypeORM
+
+
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/hunzlahussain
+- Email: hunzlahussain7869@gmail.com
 
 ---
+
 
 ## 🎓 Education  
 **Bachelor of Software Engineering**  
@@ -58,22 +94,6 @@ I’m Hunzla Hussain, a **Software Engineering graduate** and **full-stack devel
 - 📊 [Brokeret](https://brokeret.com/)  
 - 💰 [FXM Funding](https://fxm-funding.vercel.app/)  
 - 🌐 [Brokeret Landing](https://brokeret-land.vercel.app/)  
-
----
-
-## 🛠 Skills  
-
-**Frontend & UI:**  
-ReactJS · Next.js · JavaScript · TypeScript · Material UI · TailwindCSS · Shadcn · RizzUI · Zod  
-
-**Backend & Databases:**  
-Node.js · Express.js · TypeORM · PostgreSQL · MongoDB  
-
-**DevOps & Tools:**  
-Git · GitHub · Azure DevOps · AWS (Lambda, DynamoDB, S3, Step Functions, SNS) · Redis · Bull Queues · ESLint · NPM · Yarn  
-
-**Design Tools:**  
-Figma · Adobe Photoshop  
 
 ---
 
