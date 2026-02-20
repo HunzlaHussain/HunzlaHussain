@@ -74,7 +74,12 @@
 ---
 
 ### <u>Cloud & DevOps:</u>
-
+&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" title="Amazon Web Services" height="25" /></span>
+&nbsp;
+&nbsp;
+<span><img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS API Gateway logo" title="AWS API Gateway" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="25" /></span>
@@ -88,7 +93,9 @@
 <span><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" /></span>
-
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
+&nbsp;
 
 ### <u> Version Control and Tools:</u>
 
