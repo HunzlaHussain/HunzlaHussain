@@ -122,10 +122,7 @@
 
 <br>
 
-### <u> Learning:</u>
 
-<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
-&nbsp;
 
 <hr>
 
