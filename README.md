@@ -2,98 +2,86 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi 👋, I'm Azmat Ali</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Hunzla Hussain</h1>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/azmat-ali-ch500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
- <a href = "mailto: mian.azmatali.9@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hunzlahussain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
+ <a href = "mailto: hunzlahussain7869@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 <p align="center">
   <em>
-    This is ME, Azmat Ali<br>
-    A budding <b>Full-Stack Software Engineer</b> 👨🏻‍💻 and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
-    with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> 🚀 and
-    <b>excel</b> 🎖️&nbsp.
-  </em>
+  This is Hunzla Hussain,<br>
+  a <b>Software Engineer</b> 👨🏻‍💻 specializing in the <b>MERN stack</b> and <b>scalable cloud-based architectures</b>.<br>
+  I build <b>high-performance</b>, <b>dynamic</b>, and <b>user-centric</b> web applications using React, Next.js, Node.js, PostgreSQL, and AWS.<br>
+  Experienced in microservices, background job processing with <b>Bull & Redis</b>, and serverless development with <b>AWS Lambda</b>.<br>
+  Passionate about solving complex problems, optimizing performance, and continuously <b>growing</b> 🚀 as a developer who strives to <b>excel</b> 🎖️.
+</em>
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 ## 🚀💻 Technologies & Tools
 
-### <u> Languages: </u>
+### <u>Languages:</u>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" /></span>
 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+---
 
-### <u> Frontend Development Technologies and Tools: </u>
+### <u>Backend Development:</u>
 
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" title="HTML" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/figma-563D7C?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS logo" title="AngularJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bull-FF6C37?style=for-the-badge" height="25" /></span>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+---
 
-<br>
+### <u>Frontend Development:</u>
 
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25"/></span>
+<span><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch logo" title="Elasticsearch" height="25" /></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Lambda logo" title="AWS Lambda" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" title="Amazon Web Services" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="Amazon RDS logo" title="Amazon RDS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS API Gateway logo" title="AWS API Gateway" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Elastic Load Balancer logo" title="AWS Elastic Load Balancer" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Route 53 logo" title="AWS Route 53" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" /></span>
 
-### <u> Mobile App Development Technologies & Tools: </u>
+---
 
-<span><img src="https://img.shields.io/badge/React%20Native-8A2BE2" alt="Ionic logo" title="Ionic" height="25" /></span>
+### <u>Database & Caching:</u>
+
+<span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25" /></span>
+
+---
+
+### <u>Cloud & DevOps:</u>
+
+<span><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" /></span>
+
+---
+
+### <u>Testing & Tools:</u>
+
+<span><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" /></span>
+
 
 ### <u> Version Control and Tools:</u>
 
@@ -143,10 +131,7 @@
 </span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
+
 
 <br>
 
