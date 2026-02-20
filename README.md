@@ -97,42 +97,15 @@
 <span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
 &nbsp;
 
-### <u> Version Control and Tools:</u>
+### <u>Version Control & Development Tools:</u>
 
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="25" /></span>
 &nbsp;
 
-### <u> 3rd Party API's:</u>
-
-<span>
-<span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe logo" title="Stripe" height="25" /></span>
-</span>
-&nbsp;
-<span>
-<span><img src="https://img.shields.io/badge/Plaid-4A90E2?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid logo" title="Plaid" height="25" /></span>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo" title="Facebook API" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch logo" title="Twitch" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal logo" title="PayPal" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger logo" title="Swagger" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs logo" title="Google APIs" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ClubReady-333333?style=for-the-badge" alt="ClubReady" title="ClubReady" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" title="HubSpot" height="25" /></span>
-&nbsp;
-<span><span><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio logo" title="Twilio" height="25" /></span>
 
 ### <u> Operating Systems and Others:</u>
 
