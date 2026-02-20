@@ -1,103 +1,19 @@
-## Hi, I'm Hunzla Hussain 👋  
-**Software Engineer | MERN Stack Developer**
+# 💫 About Me:
+I’m Hunzla Hussain, a Software Engineer and full-stack developer specializing in the MERN stack and scalable cloud-based architectures. I build high-performance web applications using React, Next.js, Node.js, PostgreSQL, and AWS services.<br><br>I have hands-on experience with microservices, background job processing using Bull & Redis, serverless development with AWS Lambda, and automation testing with Playwright. I focus on writing clean, maintainable code and creating smooth, user-centric interfaces.<br><br>Currently, I’m working at Elevex, where I develop scalable systems and continuously explore modern technologies to improve performance and reliability.
 
-I build scalable, high-performance web applications using modern JavaScript technologies.
 
-### 🚀 Tech Focus
-- Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Express.js, PostgreSQL, Redis
-- Cloud & DevOps: AWS Lambda, DynamoDB, Azure
-- Tools: Bull Queue, Playwright, TypeORM
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hunzlahussain/) 
 
----
-
-### 💼 What I Do
-- Build scalable MERN stack applications
-- Design clean and maintainable backend architectures
-- Develop serverless APIs using AWS
-- Optimize performance and background jobs with Redis & Bull
-- Write reliable and accessible applications with automated testing
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HunzlaHussain&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HunzlaHussain&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HunzlaHussain&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HunzlaHussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔥 Featured Projects
-
-- **CRM System** – AI-powered CRM dashboard  
-  Tech: React, Node.js, PostgreSQL  
-  🔗 https://aicrmbot.hisabkarlay.com/sign-in
-
-- **LMS Portal** – Learning management system  
-  Tech: Next.js, Tailwind, PostgreSQL  
-  🔗 https://demoailearnpulse.vercel.app/
-
-- **Doctor Application** – Appointment & patient management  
-  Tech: MERN Stack  
-  🔗 https://doctor-application.vercel.app/
-
-  
----
-
-### 🛠 Skills
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express.js  
-**Databases:** PostgreSQL, Redis  
-**Cloud:** AWS Lambda, DynamoDB, Azure  
-**Tools:** Git, Bull Queue, Playwright, TypeORM
-
-
-
-### 📫 Contact
-- LinkedIn: https://linkedin.com/in/hunzlahussain
-- Email: hunzlahussain7869@gmail.com
-
----
-
-
-## 🎓 Education  
-**Bachelor of Software Engineering**  
-*University of Central Punjab (UCP)* — Lahore, Pakistan  
-📅 2019 – 2023  
-
----
-
-## 💼 Professional Experience  
-
-### 🏢 HisabKarLay — Associate Software Engineer *(01/2024 – Present)*  
-- Developed **Next.js + Express + PostgreSQL** apps  
-- Mastered **TypeScript, Zod, React Hook Form, RizzUI, Shadcn**  
-- Delivered **end-to-end features** with strong backend & frontend collaboration  
-
-### 🏢 Interactive Tech Solutions — MERN Stack Intern *(10/2023 – 12/2023)*  
-- Converted **Figma designs into responsive apps**  
-- Built & tested **REST APIs** with fetch integration  
-- Used **Git** for team collaboration  
-- Enhanced skills in **MERN stack & problem solving**  
-
----
-
-## 🚀 Projects  
-
-### 🌟 Featured Projects  
-- 🕌 **Online Zakat System** — MERN Stack + PostgreSQL  
-- 💬 **Chat Application** — ReactJS + TailwindCSS  
-- 📚 **LMS Portal** — MERN Stack → [Live Demo](https://demoailearnpulse.vercel.app/)  
-- 🩺 **Doctor Application** — Next.js + TailwindCSS → [Live Demo](https://doctor-application.vercel.app/)  
-- 🌍 **MSFDN** — ReactJS + TailwindCSS → [Live Demo](https://msfdn-ten.vercel.app/)  
-- 🍴 **Foodics** — Next.js + TailwindCSS → [Live Demo](https://foodics-hkl.vercel.app/)  
-
-### 🔗 More Projects  
-- 🏡 [GoProp](https://goprop.vercel.app/)  
-- 🏢 [Tier75](https://www.tier75.com/)  
-- 🛒 [Bilkora](https://bilkora.vercel.app/)  
-- 🔧 [Lensur Tools](https://lensurtools.vercel.app/)  
-- 📊 [Brokeret](https://brokeret.com/)  
-- 💰 [FXM Funding](https://fxm-funding.vercel.app/)  
-- 🌐 [Brokeret Landing](https://brokeret-land.vercel.app/)  
-
----
-
-⚡ **Fun Fact:** I turn ☕ coffee into clean, scalable code!  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
