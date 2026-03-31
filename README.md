@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="200"/>
 </p>
 <hr>
-<h3 align="center">Software Engineer | MERN • Cloud • AI</h3>
+<h1 align="center">Hi 👋, I'm Hunzla Hussain</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hunzlahussain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
