@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi 👋, I'm Hunzla Hussain</h1>
+<h3 align="center">Software Engineer | MERN • Cloud • AI</h3>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hunzlahussain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
@@ -11,15 +11,16 @@
 </p>
 
 <p align="center">
-  <em>
+ <em>
   This is Hunzla Hussain,<br>
-  a <b>Software Engineer</b> 👨🏻‍💻 specializing in the <b>MERN stack</b> and <b>scalable cloud-based architectures</b>.<br>
-  I build <b>high-performance</b>, <b>dynamic</b>, and <b>user-centric</b> web applications using React, Next.js, Node.js, PostgreSQL, and AWS.<br>
-  Experienced in microservices, background job processing with <b>Bull & Redis</b>, and serverless development with <b>AWS Lambda</b>.<br>
-  Passionate about solving complex problems, optimizing performance, and continuously <b>growing</b> 🚀 as a developer who strives to <b>excel</b> 🎖️.
+  a <b>Software Engineer</b> 👨🏻‍💻 specializing in the <b>MERN stack</b>, <b>NestJS</b>, and <b>scalable cloud-based architectures</b>.<br>
+  I build <b>high-performance</b>, <b>scalable</b>, and <b>AI-powered</b> web applications using React, Next.js, Node.js, NestJS, PostgreSQL, and AWS.<br>
+  Experienced in <b>REST APIs</b>, <b>GraphQL</b>, <b>WebSockets</b>, and microservices architecture.<br>
+  I also work with <b>AI integrations</b> (OpenAI), <b>automation systems</b>, and <b>intelligent workflows</b>.<br>
+  Passionate about performance optimization, clean architecture, and solving complex problems 🚀
 </em>
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always learning, building, and improving 🚀</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 ## 🚀💻 Technologies & Tools
@@ -41,6 +42,8 @@
 <span><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bull-FF6C37?style=for-the-badge" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="25" /></span>
+&nbsp;
 
 ---
 
@@ -57,6 +60,18 @@
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" /></span>
 
 ---
+
+### <u>APIs & Communication:</u>
+
+<span><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" height="25" /></span>
+&nbsp;
+
+---
+
 
 ### <u>Database & Caching:</u>
 
@@ -85,8 +100,23 @@
 <span><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge" height="25" /></span>
+&nbsp;
+
+
+### <u>AI & Automation:</u>
+
+<span><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge" height="25" /></span>
+&nbsp;
 
 ---
+
 
 ### <u>Testing & Tools:</u>
 
